@@ -2,6 +2,8 @@
 ; Runs on LM3S1968
 ; Lab 6 Test of LCD driver
 ; June 26, 2012
+;
+; Vincent Steil
 
 ;  size is 1*16
 ;  because we do not need to read busy, then we will tie R/W=ground
